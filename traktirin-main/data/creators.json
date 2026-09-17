@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "rara-gambar",
+    "name": "Rara Gambar",
+    "category": "Ilustrator",
+    "bio": "Menggambar komik strip tentang kehidupan anak kos di Cirebon.",
+    "color": "pink",
+    "supporters": 128
+  },
+  {
+    "slug": "budi-ngoding",
+    "name": "Budi Ngoding",
+    "category": "Live coding",
+    "bio": "Streaming bikin aplikasi web dari nol setiap Sabtu malam.",
+    "color": "cyan",
+    "supporters": 342
+  },
+  {
+    "slug": "sinta-musik",
+    "name": "Sinta Musik",
+    "category": "Musisi",
+    "bio": "Cover lagu daerah Jawa Barat dengan aransemen akustik.",
+    "color": "orange",
+    "supporters": 87
+  },
+  {
+    "slug": "Tio-main",
+    "name": "Tio Main",
+    "category": "Gamer",
+    "bio": "Main game strategi sambil ngobrol santai dengan penonton.",
+    "color": "green",
+    "supporters": 519
+  }
+]
