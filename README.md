@@ -156,3 +156,26 @@ Tugas mahasiswa:
 | Versi tidak berubah | Nilai `NEXT_PUBLIC_*` butuh redeploy |
 | Status `degraded` | Env wajib belum diisi di Vercel |
 | 404 di `/kreator/...` | Slug tidak ada di sumber data |
+
+# Traktirin
+
+Aplikasi traktir kopi untuk kreator.
+
+## 🔗 Live Demo
+https://traktirin-sriwati.vercel.app
+
+## 🚀 Cara Menjalankan Lokal
+1. Clone repo
+2. `npm install`
+3. Copy `.env.example` → `.env.local`, isi sesuai kebutuhan
+4. `npm run dev`
+5. Buka http://localhost:3000
+
+## 🔧 Environment Variables
+- `NEXT_PUBLIC_APP_NAME` — nama aplikasi (browser)
+- `NEXT_PUBLIC_APP_VERSION` — versi aplikasi (browser)
+- `API_BASE_URL` — opsional, URL API eksternal (server)
+- `API_SECRET` — opsional, secret API (server)
+
+## ☁️ Deployment
+Deploy otomatis via Vercel dari branch `main`.
